@@ -30,7 +30,7 @@ Diseñar, entrenar y evaluar un modelo de red neuronal profunda para predecir la
 
 ## 📝 Notas
 
-- El modelo Random Forest fue entrenado con 80% del dataset completo de German Credit Data (800 muestras)
+- El modelo fue entrenado con 80% del dataset completo de German Credit Data (800 muestras)
 - Este proyecto es con fines educativos y demostrativos
 
 ## 📝 Reflexiones de lo aprendido
